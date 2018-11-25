@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1542922660 source:/home/clewrus/c++/labs/labGilbert/main.cpp
+	<iostream>
+	<cmath>
+	"Image.hpp"
+	"HilbertDrawingStuff.hpp"
+
+1542922794 source:/home/clewrus/c++/labs/labGilbert/Image.cpp
+	"Image.hpp"
+
+1542908355 /home/clewrus/c++/labs/labGilbert/Image.hpp
+	<fstream>
+	<string>
+	<exception>
+
+1542921491 /home/clewrus/c++/labs/labGilbert/HilbertDrawingStuff.hpp
+	<cmath>
+	"Image.hpp"
+
+1542921848 source:/home/clewrus/c++/labs/labGilbert/HilbertDrawingStuff.cpp
+	"HilbertDrawingStuff.hpp"
+
